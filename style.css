@@ -1,0 +1,65 @@
+/* APLICAÇÃO DO MARGIN */
+.all-value-margin{
+    border: 5px solid;
+    background-color: aqua;
+    margin: 30px;
+    
+}
+
+.separate-side-margin{
+    border: 5px solid;
+    background-color: red;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+
+.top-and-sides-margin{
+    border: 5px solid;
+    background-color: blueviolet;
+    margin: 30px 15px;
+}
+
+/* APLICAÇÃO DO PADDING */
+.all-value-padding{
+    background-color: #a52a2a;
+    border: 5px solid;
+    padding: 30px;
+}
+
+.separate-side-padding{
+    background-color: #008000;
+    border: 5px solid;
+    padding-top: 30px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+
+.top-and-sides-padding{
+    background-color: #7B68EE;
+    border: 5px solid;
+    padding: 30px 15px;
+}
+
+/* APLICAÇÃO DO BORDER DASHED*/
+.border-dashed{
+    background-color: aquamarine;
+    border: 5px dashed black;
+}
+
+.border-double{
+    background-color: aquamarine;
+    border: 5px double black;
+}
+
+.border-solid{
+    background-color: aquamarine;
+    border: 5px solid black;
+}
+
+.border-dotted{
+    background-color: aquamarine;
+    border: 5px dotted black;
+}
