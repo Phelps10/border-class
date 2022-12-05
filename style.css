@@ -1,14 +1,14 @@
 /* APLICAÇÃO DO MARGIN */
 .all-value-margin{
     border: 5px solid;
-    background-color: aqua;
+    background-color: chartreuse;
     margin: 30px;
     
 }
 
 .separate-side-margin{
     border: 5px solid;
-    background-color: red;
+    background-color: gold;
     margin-top: 30px;
     margin-right: 10px;
     margin-bottom: 30px;
